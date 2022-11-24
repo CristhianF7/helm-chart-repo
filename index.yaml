@@ -3,7 +3,17 @@ entries:
   helm-chart-example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-24T10:54:55.773951-05:00"
+    created: "2022-11-24T14:41:04.270734-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 0c10c71097550b77c1b1cfb9716f76e1efc0ac6d1214c4c8e3e52c705635b7ab
+    name: helm-chart-example
+    type: application
+    urls:
+    - https://cristhianf7.github.io/helm-chart-repo/helm-chart-example-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-24T14:41:04.270489-05:00"
     description: A Helm chart for Kubernetes
     digest: 21f2ede1f5ba5a7e8b0030cabaa3444beed3d8010b03ed3668a805bfdd764b0c
     name: helm-chart-example
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://cristhianf7.github.io/helm-chart-repo/helm-chart-example-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-24T10:54:55.773422-05:00"
+generated: "2022-11-24T14:41:04.269633-05:00"
